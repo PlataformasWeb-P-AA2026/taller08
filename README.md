@@ -2,7 +2,7 @@
 
 ## Integración de datos y uso de ORM
 
-Integrar datos de múltiples fuentes (HTML, CSV, PDF), transformarlos en un formato común y almacenarlos en CouchDB para su posterior consulta mediante vistas, desde vite
+Integrar datos de un formato común y almacenarlos en sqlite / mysql / mariaDb
 
 
 ## Archivos proporcionados
